@@ -1,0 +1,26 @@
+
+/* Smooth scrolling for the whole page */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Base body styling */
+body {
+    background-color: #fbfbfb;
+    color: #333333;
+}
+
+/* ================================================= */
+/* CUSTOM SECTION STYLING                            */
+/* ================================================= */
+
+/* Custom margin adjustments for main content */
+main {
+    padding: 20px 0;
+}
+
+/* Custom styling for images inside cards or sections */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
